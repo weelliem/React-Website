@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Website/static/css/main.cd4e45c3.chunk.css",
+    "main.css": "/React-Website/static/css/main.867c4216.chunk.css",
     "main.js": "/React-Website/static/js/main.28c70c8f.chunk.js",
     "main.js.map": "/React-Website/static/js/main.28c70c8f.chunk.js.map",
     "runtime-main.js": "/React-Website/static/js/runtime-main.76a26adf.js",
@@ -9,10 +9,10 @@
     "static/js/2.e2beb30c.chunk.js": "/React-Website/static/js/2.e2beb30c.chunk.js",
     "static/js/2.e2beb30c.chunk.js.map": "/React-Website/static/js/2.e2beb30c.chunk.js.map",
     "index.html": "/React-Website/index.html",
-    "precache-manifest.f1ee0bda75418c84b141c7fdeb71c226.js": "/React-Website/precache-manifest.f1ee0bda75418c84b141c7fdeb71c226.js",
+    "precache-manifest.ec6f608d3d4f68cf6cd97be3527f6690.js": "/React-Website/precache-manifest.ec6f608d3d4f68cf6cd97be3527f6690.js",
     "service-worker.js": "/React-Website/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/React-Website/static/css/2.f3cffc9e.chunk.css.map",
-    "static/css/main.cd4e45c3.chunk.css.map": "/React-Website/static/css/main.cd4e45c3.chunk.css.map",
+    "static/css/main.867c4216.chunk.css.map": "/React-Website/static/css/main.867c4216.chunk.css.map",
     "static/js/2.e2beb30c.chunk.js.LICENSE.txt": "/React-Website/static/js/2.e2beb30c.chunk.js.LICENSE.txt",
     "static/media/Covid.jpg": "/React-Website/static/media/Covid.9e82c2fe.jpg",
     "static/media/Snap1.jpg": "/React-Website/static/media/Snap1.d94b9d4c.jpg",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.76a26adf.js",
     "static/css/2.f3cffc9e.chunk.css",
     "static/js/2.e2beb30c.chunk.js",
-    "static/css/main.cd4e45c3.chunk.css",
+    "static/css/main.867c4216.chunk.css",
     "static/js/main.28c70c8f.chunk.js"
   ]
 }
