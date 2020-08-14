@@ -1,4 +1,7 @@
 # React-Website
+A quick react based website for my portfolio 
+
+**This project was a rushed job therefore I will be looking to update/improve the code later in the future**
 
 ## Table of Content 
 * [Prerequisites](#prerequisites)
