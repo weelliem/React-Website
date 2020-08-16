@@ -5,7 +5,7 @@ A quick react based website for my portfolio
 
 ## Table of Content 
 * [Prerequisites](#prerequisites)
-* [APIs](#apis)
+* [Libaries](#libaries)
 * [Bugs](#bugs)
 * [Credits](#credits)
 
@@ -13,7 +13,7 @@ A quick react based website for my portfolio
 * **React Native**
 is an open-source mobile application framework created by Facebook, Inc. It is used to develop applications for Android, iOS, Web and UWP by enabling developers to use React along with native platform capabilities. 
 
-## APIs
+## Libaries
 * **Frammer Motion**
 shares the simple animation and gesture API as the Framer library, while maintaining HTML and SVG semantics. This makes it simple to port your high-fidelity prototypes to a production-ready environment, or make something completely new!
 
